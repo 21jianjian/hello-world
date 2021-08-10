@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-<h1 color="red">Hello World</hq>
+<h1><em>Hello World<em></hq>
